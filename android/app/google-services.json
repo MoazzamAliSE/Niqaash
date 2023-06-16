@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165389163346",
+    "project_id": "niqaash-2c672",
+    "storage_bucket": "niqaash-2c672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165389163346:android:908b8fb26a954d9829788b",
+        "android_client_info": {
+          "package_name": "com.example.niqaash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165389163346-8b56malolepg92g4fjclvvbgeikd7fa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQRyETiD9_dEVk4hGUa68_4TWLSaStyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165389163346-8b56malolepg92g4fjclvvbgeikd7fa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
