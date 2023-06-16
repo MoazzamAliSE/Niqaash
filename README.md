@@ -1,6 +1,8 @@
 # niqaash
 
-A new Flutter project.
+Niqaash app :
+  Sending posts as well as chat with other users
+ 
 
 ## Getting Started
 
